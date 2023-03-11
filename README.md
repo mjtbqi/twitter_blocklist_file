@@ -19,6 +19,7 @@ This Python script allows you to export your Twitter block list to a CSV file fo
 3. The script will prompt you to input the name of the CSV file you want to create.
 4. The script will then export your Twitter block list to the CSV file specified in step 3.
 5. You can open the CSV file using Microsoft Excel or any other spreadsheet software to view or analyze the block list.
+
 Note: The CSV file will contain the following columns: Screen Name, User ID, Name, and Blocked On.
 
 ### License
